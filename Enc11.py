@@ -1,7 +1,7 @@
 import os
 
-print("							V1.0")
-print("							Coded by : Gokul \n")
+print("				V1.0")
+print("				Coded by : Gokul \n")
 
 result = ''
 message = ''
